@@ -15,14 +15,14 @@
     "flip-tabs-forward": {
       "suggested_key": {
         "default": "Ctrl+Shift+Right",
-        "mac": "Command+Shift+Down"
+        "mac": "Command+Shift+Right"
       },
       "description": "Flip tabs forward"
     },
     "flip-tabs-backwards": {
       "suggested_key": {
         "default": "Ctrl+Shift+Left",
-        "mac": "Command+Shift+Up"
+        "mac": "Command+Shift+Left"
       },
       "description": "Flip tabs backwards"
     }
